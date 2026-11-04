@@ -66,36 +66,6 @@ My interests span embedded firmware, low-level software architecture, digital sy
 
 ---
 
-## `featured_projects`
-
-### 🚗 Wireless CAN Bus Analyzer
-
-An ESP32-based CAN monitoring project that simulates vehicle communication and streams CAN frames to an IoT dashboard.
-
-- Generates and analyzes CAN frames.
-- Publishes data over MQTT.
-- Visualizes live vehicle communication using Node-RED.
-- Built with PlatformIO, ESP32, MQTT, and Wokwi.
-
-### ⚙️ IoT-Based DC Motor Health Monitoring
-
-A real-time motor monitoring system using sensor data and an IoT dashboard.
-
-- Measures temperature, vibration, and rotational speed.
-- Uses ESP32, DS18B20, MPU6050, and Hall-effect sensing.
-- Displays measurements locally and remotely.
-- Supports threshold-based health alerts.
-
-### 🔐 Secure Enterprise Network
-
-A simulated enterprise network designed with secure communication and structured network architecture.
-
-- Multi-router topology and subnetting.
-- Network segmentation and access control.
-- Implemented and tested in Cisco Packet Tracer.
-
----
-
 ## `github_analytics`
 
 <p align="center">
@@ -133,3 +103,4 @@ A simulated enterprise network designed with secure communication and structured
 <p align="center">
   <i>"Understand the hardware. Respect the constraints. Engineer the solution."</i>
 </p>
+
